@@ -8,7 +8,7 @@ import pytest
 
 from tests.models.anthropic.registry import ALL_MAPPINGS, TypeMapping
 
-OPENAPI_SPEC_URL = "https://storage.googleapis.com/stainless-sdk-openapi-specs/anthropic/anthropic-506a5ad71d522b4ae56ac3429380486647af1f92eddde80603480fb592d62b54.yml"
+OPENAPI_SPEC_URL = "https://storage.googleapis.com/stainless-sdk-openapi-specs/anthropic/anthropic-f89e311096c42998ada5ab5580a2a3b0519265f1c005af625be7a0d11ad49d3c.yml"
 OPENAPI_DRIFT_WHITELIST_PATH = Path(__file__).with_name("openapi_drift_whitelist.json")
 
 
